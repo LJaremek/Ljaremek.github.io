@@ -1,0 +1,20 @@
+	<section id="about" class="templatemo-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 col-md-6">
+					<div class="templatemo-content-box text-left">
+						<h2 class="templatemo-brown">TITLE</h2>
+						<p class="margin-top-30">DESCRIPTION</p>
+						<p> TITLE: <br> <a href = "LINK" target = "_blank"> LINK_LOOK </a> </p>
+					</div>										
+				</div>
+				<div class="col-lg-6 col-md-6">
+					<div class="templatemo-flex-center templatemo-black-bg">
+								        		<video width="480" height="360" controls>
+													<source src="videos/VIDEO" type="video/mp4">
+												</video>								        		
+					</div>					
+				</div>
+			</div>
+		</div>
+	</section>

@@ -1,0 +1,14 @@
+<footer class="container margin-top-30">
+		<div class="row">
+			<div class="col-lg-12">
+				<p class="templatemo-copyright-container small templatemo-brown">
+					<span class="templatemo-copyright-text">E-mail: <a class="templatemo-gold">Jaremek.Lukasz@gmail.com</a></span>
+				</p>
+			</div>
+		</div>		
+	</footer>	
+	<script src="js/jquery-1.11.1.min.js"></script>
+	<script src="js/jquery.jcarousel.min.js"></script>
+	<script src="js/templatemo_script.js"></script>
+</body>
+</html>

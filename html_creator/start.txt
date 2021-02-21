@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<head>
+	<!-- 
+    	Brownie Template
+    	http://www.templatemo.com/preview/templatemo_440_brownie
+
+    	Credits:
+    	http://sorgalla.com/jcarousel/
+    	http://unsplash.com
+    	http://absurdwordpreferred.deviantart.com/art/FREE-Cogs-Transparent-PNG-145452644
+    -->
+	<title>Łukasz Jaremek - projekty</title>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,700' rel='stylesheet' type='text/css'>
+	<link href="css/font-awesome.min.css" rel="stylesheet">
+	<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="css/templatemo_style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <div class="templatemo-site-header">
+		<div class="container">
+			<div class="row templatemo-position-relative">				
+				<h1 class="templatemo-site-name">
+					
+                	<span class = "templatemo-gold"><h3>Łukasz Jaremek</h3></span> 
+				
+					<span class = "templatemo-gold" style = "padding-left: 70%;"> <a href = "https://github.com/LJaremek?tab=repositories" target = "_blank"> <img src = "images/github_logo.png" title = "Link do github'a" alt = "GH" style = "width:60px;height:60px;float:right;"> </a> </span>
+				
+					<span class = "template-gold"> <a href = "mailto: Jaremek.Lukasz@gmail.com"> <img src = "images/mail.png" title = "jaremek.lukasz@gmail.com" style = "width:60px;height:60px;float:right;"> </a> </span>
+				</h1>
+				</div>
+				
+			</div>
+		</div>    	
+    </div>
+	
+	<section class = "template-section" style = "padding-top:10%;">
+		<div class = "container">
+			<div class = "row">
+				<div class="col-lg-6 col-md-6">
+					<div class="templatemo-content-box text-left">
+						<p class="templatemo-brown" style = "font-size:30px;"> Coś o mnie </p>
+						<p style = "padding: 0%"> Nazywam się Łukasz Jaremek, komputerami interesowałem się od kiedy sięgam pamięcią. <br>
+						Przygodę z pogramowaniem zacząłem już w podstawówce w <a href = "https://youtu.be/pEgrqAxIMNI" target = "_blank" title = "Pierwszy projekt z początku gimnazjum">Windowsowym CMD</a>. <br>
+						W liceum dzięki rozszerzonej informatyce poznałem pythona, którego bardzo szybko opanowałem. <br>
+						Lubię również matematykę, miałem styczność z obróbką video i obrazu w programach komputerowych jak i w pythonie. </br>
+						Chętnię poznaję nowe narzędzia komputerowe i programistyczne, jestem otwarty na nowe doświadczenia i zdobywanie wiedzy. </p>
+						<br>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-6">
+					<div class="templatemo-flex-center templatemo-black-bg">
+						<img src="images/python_logo.png" style = "hight:400px;width:400px;" alt="Home" class="templatemo-home-image">
+					</div>					
+				</div>
+			</div>
+		</div>
+	</section>
